@@ -116,6 +116,5 @@ if __name__ == '__main__':
     Scroll.config(command = TextArea.yview)
     TextArea.config(yscrollcommand=Scroll.set)
 
-
     root.mainloop()
 
